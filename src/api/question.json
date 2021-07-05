@@ -1,0 +1,104 @@
+{
+  "subject":{
+    "science":
+    [  
+     {
+       "level1": [
+         {
+           "question": " science level1 What temperature does water boil at?",
+           "optionA": "50 degrees Celcius",
+           "optionB": "25 degrees Celcius",
+           "optionC": "100 degrees Celcius",
+           "optionD": "150 degrees Celcius",
+           "answer": "100 degrees Celcius"
+         },
+ 
+         {
+           "question": " science l2 Who wrote Julius Caesar, Macbeth and Hamlet?",
+           "optionA": "Wole Soyinka",
+           "optionB": "William Shakespeare",
+           "optionC": "Ngozi Chimamanda Adichie",
+           "optionD": "Dan Brown",
+           "answer": "William Shakespeare"
+         },
+         {
+           "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+           "optionA": "Wole Soyinka",
+           "optionB": "William Shakespeare",
+           "optionC": "Ngozi Chimamanda Adichie",
+           "optionD": "Dan Brown",
+           "answer": "William Shakespeare"
+         }
+       ],
+       "level2": [
+         {
+           "question": "science l222 What temperature does water boil at?",
+           "optionA": "50 degrees Celcius",
+           "optionB": "25 degrees Celcius",
+           "optionC": "100 degrees Celcius",
+           "optionD": "150 degrees Celcius",
+           "answer": "100 degrees Celcius"
+         },
+ 
+         {
+           "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+           "optionA": "Wole Soyinka",
+           "optionB": "William Shakespeare",
+           "optionC": "Ngozi Chimamanda Adichie",
+           "optionD": "Dan Brown",
+           "answer": "William Shakespeare"
+         }
+       ]
+     }],
+  "maths":
+   [  
+    {
+      "level1": [
+        {
+          "question": "maths l11111What temperature does water boil at?",
+          "optionA": "50 degrees Celcius",
+          "optionB": "25 degrees Celcius",
+          "optionC": "100 degrees Celcius",
+          "optionD": "150 degrees Celcius",
+          "answer": "100 degrees Celcius"
+        },
+
+        {
+          "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+          "optionA": "Wole Soyinka",
+          "optionB": "William Shakespeare",
+          "optionC": "Ngozi Chimamanda Adichie",
+          "optionD": "Dan Brown",
+          "answer": "William Shakespeare"
+        },
+        {
+          "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+          "optionA": "Wole Soyinka",
+          "optionB": "William Shakespeare",
+          "optionC": "Ngozi Chimamanda Adichie",
+          "optionD": "Dan Brown",
+          "answer": "William Shakespeare"
+        }
+      ],
+      "level2": [
+        {
+          "question": "maths le22 What temperature does water boil at?",
+          "optionA": "50 degrees Celcius",
+          "optionB": "25 degrees Celcius",
+          "optionC": "100 degrees Celcius",
+          "optionD": "150 degrees Celcius",
+          "answer": "100 degrees Celcius"
+        },
+
+        {
+          "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+          "optionA": "Wole Soyinka",
+          "optionB": "William Shakespeare",
+          "optionC": "Ngozi Chimamanda Adichie",
+          "optionD": "Dan Brown",
+          "answer": "William Shakespeare"
+        }
+      ]
+    }]
+  }
+}
